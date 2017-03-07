@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#6E6E6E</color>
+    <color name="list_background_pressed">#FF9966</color>
+    <color name="list_divider">#FFFFFF</color>
+    <color name="counter_text_bg">#585858</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="transparent">#00000000</color>
+    <color name="Marrone">#E65C00</color>
+    <color name="dark_marrone">#D65930</color>
+</resources>

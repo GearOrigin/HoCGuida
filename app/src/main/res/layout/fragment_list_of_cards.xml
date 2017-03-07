@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/backandground"
+    tools:context="info.androidhive.slidingmenu.FindPeopleFragment" >
+
+    <ListView
+        android:id="@+id/listcarte"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bb" >
+
+    </ListView>
+
+<com.google.android.gms.ads.AdView
+    android:id="@+id/bb"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignLeft="@+id/listcarte"
+    android:layout_alignParentBottom="true"
+    android:layout_marginTop="5dp"
+    ads:adSize="BANNER"
+    ads:adUnitId="ca-app-pub-3970473814760857/6947180926" >
+</com.google.android.gms.ads.AdView>
+<LinearLayout
+        android:id="@+id/linlaHeaderProgress"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ProgressBar
+            android:id="@+id/pbHeaderProgress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </ProgressBar>
+       
+    </LinearLayout>
+</RelativeLayout>

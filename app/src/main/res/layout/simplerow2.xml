@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TableRow
+       
+        >
+
+        <ImageView
+            android:id="@+id/combo1"
+            android:layout_width="30dp"
+            android:layout_height="55dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_weight="1"
+            android:adjustViewBounds="false"
+            android:background="@layout/rounded_image"
+            android:maxWidth="15dp"
+            android:scaleType="fitXY" />
+
+        <ImageView
+           android:layout_width="30dp"
+        	android:layout_height="55dp"
+            android:id="@+id/combo2"
+            android:layout_weight="1"
+            android:layout_toRightOf="@+id/combo1"
+            android:adjustViewBounds="false"
+        	android:background="@layout/rounded_image"
+        	android:maxWidth="15dp"
+        	android:scaleType="fitXY"/>
+
+        <ImageView
+            android:layout_width="30dp"
+        	android:layout_height="55dp"
+            android:id="@+id/combo3"
+            android:layout_weight="1"
+            android:layout_toRightOf="@+id/combo2"
+            android:adjustViewBounds="false"
+        	
+        	android:maxWidth="15dp"
+        	android:scaleType="fitXY"/>
+
+        <ImageView
+            android:layout_width="30dp"
+        	android:layout_height="55dp"
+            android:id="@+id/combo4"
+            android:layout_weight="1"
+            android:layout_toRightOf="@+id/combo3"
+            android:adjustViewBounds="false"
+            
+        	android:maxWidth="15dp"
+        	android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/textcombo"
+            android:layout_toRightOf="@+id/combo4"
+             />
+
+
+    </TableRow>
+</TableLayout>

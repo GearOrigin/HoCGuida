@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <TabHost
+        android:id="@+id/TabHost01"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+            <!-- TabWidget used to creat tabs -->
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:tabStripLeft="@color/Marrone"
+                android:tabStripRight="@color/Marrone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/manoscritto">
+            </TabWidget>
+            <!-- container of tabs -->
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                >
+
+                <!-- tab N°1 -->
+                <!-- Inclusion of the interface -->
+                <include
+                    android:id="@+id/Party"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    layout="@layout/creation_layout" >
+                </include>
+                <!-- tab N°2 -->
+                <!-- Inclusion of the interface -->
+                <include
+                    android:id="@+id/Cards"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    layout="@layout/fragment_list_of_cards">
+
+                </include>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+</LinearLayout>

@@ -1,0 +1,284 @@
+1;2013 All Stars;Passive-increase skill proc of team members by 10%;Hope,Stone Fist,Gaznar Soulripper
+2;Aerial Doom;Passive-increase skill proc of team members by 10%;Ben-nu Hellborn,Gaznar Soulripper,Yzabel The Fallen,Jezebel The Shriek
+3;Ancient Protectors;Passive-increase skill proc of team members by 25%;Nathra Verdaine,Stone Ancient
+4;Assassin's Alliance;Chance to instantly kill enemy team;Assassin,Shanke,Mist Stalker,Arcane Archer
+5;Assault Team;Passive-Raise team's MAX HP by 25%;Vanguard,Archmage,Paladin
+6;Augmented Arms;Passive- Raise team's ATK by 110%;Veteran Paladin,Moria,Weapon Master,Blademaster
+7;Back To Back;Passive-Reduce damage by 30%;Weapon Master,Blademaster
+8;Behemoths;Passive-Raise team's MAX HP by 150%;Ancient Archelon,Mammoth Beetle,Galzra
+9;Beyond Redemption;Remove 50% of enemy team's current HP;Famine,Jezebel The Shriek,Morbius The Cursed,Father Maleficent
+10;Black Riders;Remove 90% of enemy team's HP;Night Rider,Black Knight,Death
+11;Blessed Knight Rider;Passive-Reduce damage by 20%;Grail Knight,Armored Warhorse,Guardian Angel
+12;Blessed Stag Rider;Passive-Reduce damage by 20%;Primal Warrior,Alpha Stag,Guardian Angel
+13;Blessed Waters;Recover 50% HP when HP falls below 20%;Blessing Stone,Lady Of The Lake,Angel Of Law
+14;Blessing Of Fate;Passive-Increase healing effectiveness by 200%,increase skill proc by 5%;Angel Of Law,Hope,Azarel,Lady Of The Lake
+15;Body Count;Chance to revive team with 50% HP upon death;Butcher Of Princes,Bourgard,Pestilence
+16;Bone Spirit;Chance to revive team with 50% HP upon death;Karn,Morbius The Cursed,Gravebane
+17;Bruisers;Remove 60% of enemy team's current HP;Heavy Swordsman,Vanguard,Berserker,Stone Fist
+18;Brute Force;Passive-Raise team's ATK by 150%;Totem Guard,Stone Fist,Berserker
+19;Burst Damage;Remove 40% of enemy team's current HP;Archivist,Archmage,Vanguard,Stromcaller
+20;Celestials;Passive-Raise team's MAX HP with 150%;Vambrael,Azarel,Guardian Angel,Arabel The True
+21;Champions;Passive-Raise team's ATK by 200%;Drust Mac Erp,Sir Galahad,Weapon Master,Totem Guard
+22;Cold Killers;Chance to istantly kill enemy team;Green Knight,Assassin,Mist Stalker,Treehound
+23;Crack Knights;Passive-Raise team ATK by 225%;Lapis Knight,Green Knight,White Knight,King's Guard
+24;Crazed Stupor;Passive-Raise team's ATK by 50%;Woman of Windsor,Brew Master,Wind Whisper
+25;Cruel Strike;Increase ATK by 150% when HP falls below 30%;Cardon,Godfrey One-Arm,Mason
+26;Cultists;Chance to revive team to 50% upon death;Father Maleficent,Necros The Grim
+27;Cunning Foes;Increase skill proc of team members by 15%;Green Knight,Treehound,Arial The Prophet
+28;Dark Arts;Remove 66% of enemy team's current HP;Desdemona,Jezebel The Shriek,Ossion The Dread,Necros The Grim
+29;Death Whisper;Increase ATK by 300% when HP falls below 10%;Soul Cage,Tomb Reaver,Gargoyle,Dream Eater
+30;Defenders;Passive-Reduce damage by 50%;Diamond Knight,Stone Ancient,Skinchanger,Marble Guardian
+31;Demons;Passive-Raise team's MAX HP by 80%;Fenric Gore-Claw,Balzathor
+32;Desert Guardians;Passive-Raise team's HP by 50%,Increase Skill Proc by 8%;Ageless Scorpion,Terraheart,Mara Of The Sand
+33;Disciplined;Increase ATK by 150% when HP flls below 15%;Blademaster,Gawain's Guard
+34;Divine Intervention;Chance to revive team with 80% HP upon death;Vambrael,Guardian Angel
+35;Divine Ladies;Passive-Increase healing effectiveness by 200%;Lady Of The Lake,Rhiannon The Fair
+36;Dragon Heart;Passice-Raise team's ATK by 100%;Dragon Caller,Dragon Slayer,Dragon Knight
+37;Dragon's Blood;Passive-Raise team's MAX HP by 100%;Dragon Knight,Merlin's Dragon,Nathra Verdaine
+38;Dragonic Allies;Chance to instantly kill enemy team;Crimson Dragonaire,Celadon Dragonaire,Dragon Caller,Rock Dragonaire
+39;Druid Beats;Chance to team with 20% HP upon death;Primal Warrior,Elder Shaman,Bard
+40;Druid Elite;Passive-Raise team's HP and ATK by 125%;Arial,Arial's Champion,Primal Rider,Totem Guard
+41;Druid Warband;Passive-Raise team's MAX HP by 100%;Primal Warrior,Alpha Stag,Beastmaster
+42;Druid Warriors;Passive-Raise team's ATK by 20%;Druid Warrior,Druid Marksman
+43;Eagle Alliance;Passive-Raise team's ATK by 75%;Gryphon Rider,Gryphon,Giant Eagle
+44;Elemental Fury;Passive-Raise ATK by 100%;Water Elemental,Fire Elemental,Caradd The Gale,Earth Elemental
+45;Elemental Uprising;Increase skill proc by 10%;Alden,Flame Witch,Stormcaller,Kel Earthbringer
+46;Elite Casters;Remove 50% of enemy team's current HP;Archmage,Stormcaller,Elder Shaman
+47;Elite Force;Passive-Raise team's ATK by 200%;Vambrael,Sir Galahad,Rhiannon The Fair,Galzra
+48;Enchanted Weapons;Passive-Raise team's ATK by 175%;Arcane Archer,Totem Guard,Violet Knight
+49;Enigmatic Knights;Passive-Raise team's MAX HP by 150%;Black Knight,Green Knight,White Knight
+50;Epic Serpents;Passive-Raise team's ATK by 150%;Merlin's Dragon,Galzra,Nathra Verdaine,Mhor The Wyrm
+51;Fallen Heroes;Chance to revive team with 60% HP upon death;Father Maleficent,General Morbius,Jezebel The Fair,White Knight
+52;Fearless Fighters;Passive-Reduce damage by 65%;Kelley,Sir Galahad,Sir Kay,Diamond Knight
+53;Female Legends;Passive-Increasse healing effectiveness by 150%;Lady Of The Lake,Rhiannon The Fair,Guinevere
+54;Feral Pack;Passive-Reduce damage by 30%;Phantom Panther,Giant Boar,Dire Bear,Beastmaster
+55;Final Stand;Increase ATK by 400% when HP falls below 5%;Blademaster,Totem Guard,Weapon Master,Kelley
+56;Finesse Fighters;Passive-Increase skill proc of team members by 20%;Ranger,Duelist
+57;Fire Breathing;Remove 80% of enemy team's current HP;Galzra,Merlin's Dragon,Ben-nu Fireborn
+58;Flame Strike;Remove 50% of enemy team's current HP;Flame Witch,Sun Mage,Ember Druid
+59;Forest Guardians;Passive-Raise team's MAX HP by 100%;Nathra Verdaine,The Horned Lord,Stone Ancient
+60;Four Horseman;Chance to instantly kill enemy team;Death,Famine,War,Pestilence
+61;Free Spirit;Passsive-Increase skill proc of team members by 8%;Rogue Outlaw,Maiden Exemplar,Arial,Arcane Archer
+62;Frozen Core;Increase Skil Proc by 10%;Alden,Celadon Dragonaire,Ben-nu Frostborn,Shiverheart
+63;Frozen Terrors;Remove 50% of enemy team's current HP;Shiverheart,Ben-nu Frostborn,Ice Mage
+64;Furious Fighters;Increase ATK by 200% when HP falls below 20%;Mason,Berserker,Wild Huntress
+65;Fury Of The Skies;Remove 30% of enemy team's current HP;Ben-nu Skyborn,Caradd The Gale
+66;Generals;Passive-Raise team's HP and ATK by 50%;Black Knight,Maiden Exemplar,Arial,General Morbius
+67;Geomancers;Remove 30% of enemy team's current HP;Kel Earthbringer,Terraheart,Mara Of The Sand
+68;Giant Insects;Passive-Reduce damage by 40%;Psycho Butterfly,Doomweaver
+69;Gifted And Talented;Passive-Increase skill proc of team members by 15%;Bard,Battlemage
+70;God And Heroes;Chance to revive team with full HP upon death;Vambrael,Rhiannon The Fair,Grail Knight,Primal Warrior
+71;Gods;Passive-Raise team's MAX HP by 200%;Vambrael,Rhiannon The Fair,The Horned Lord
+72;Golden Force;Passive-Increase team's MAX HP by 250%;Golden Vambrael,Golden Galahad,Golden Rhiannon,Golden Galzra
+73;Goliaths;Passive-Raise team's HP by 100% Reduce damage by 25%;Ageless Scorpion,Mammoth Beetle,Ancient Archelon,Mhor The Wyrm
+74;Guardian Constructors;Passive-Reduce damage by 10%;Marble Guardian,Mechanical Knight
+75;Healers;Passive-Increase healing effectiveness by 80%;Paladin,Rhiannon The Fair,Ranger
+76;Heavy Cavalry;Remove 80% of enemy team's current HP;Maiden Exemplar,Primal Rider,King's Guard,Arial
+77;Hell's Terror;Passive-Raise team's HP by 100% Reduce damage by 20%;Death,Night Rider,Ben-nu Hellborn
+78;Hero Trifecta;Chance to revive team with 20% HP upon death;Grail Knight,Archmage,Bard
+79;Heroic Beasts;Passive-Raise team's MAX HP by 50%;Celestial Lion,Giant Eagle
+80;Hired Steel;Passive-Raise team's ATK by 50%;Weapon Master,Huscarl,Highlander,Ulster Knight
+81;Hooded Terrors;Remove 60% of enemy team's current HP;Ossion The Dread,Bourgard,Mist Stalker
+82;Hot Blooded;Passive-Raise team's ATK by 110% Reduce damage by 15%;Veteran Paladin,Kelley,Blademaster,Sir Kay
+83;Hybrid Beasts;Increase ATK by 100% when HP falls below 20%;Gryphon,Cockatrice
+84;Immortals;Chance to revive team with 80% HP upon death;Ossion The Dread,Druantia,Ben-nu Fireborn
+85;Inner Circle;Remove 60% of enemy team's current HP;Mara Of The Sand,Sun Mage,Myddrin
+86;Jack Of All Trades;Passive-Raise team's HP and ATK by 25%, Reduce damage by 25%,increase skill proc by 20%;Veteran Paladin,Rogue Outlaw,Maiden Exemplar,King's Guard
+87;Killers For Hire;Passive-increase skill proc of team members by 8%;Rogue Outlaw,Mist Stalker,Assassin
+88;King Size Weapon;Passive-Raise team's ATK by 150%;Totem Guard,Highlander,Bourgard
+89;Knight Warband;Passive-Raise team's ATK by 100%;Armored Warhorse,Grail Knight,Paladin
+90;League Of The Damned;Passive-Raise team's HP by 50%;Vortigern,Ossion The Dread,Morbius The Cursed,Jezebel The Shriek
+91;Living Forest;Passive-Reduce damage by 35%;Treekin,Treehound,Ironbark,Treekin Shaman
+92;Lords and Guards;Passive-Raise team's HP and ATK by 75%;Sword Summoner,Kelley,Sir Galahad,Gawain's Guard
+93;Magicians;Remove 30% of enemy team's current HP;Archmage,Ice Mage,Ember Druid
+94;Marksmen;Remove 20% of enemy team's current HP;Longbowman,Crossbowman,Druid Marksman
+95;Martial Music;Passive-Increase skill proc of team members by 20%;Lyrist,War Drummer,Horn Of Broceliande,Bard
+96;Mercenaries;Passive-Increase skill proc of team members by 10%;Highlander,Huscarl,Ulster Knight
+97;Merciful Angels;Chance to revive team with 50% HP upon death;Angel Of Law,Lyrist,Hope,Guardian Angel
+98;Monster Mash;Chance to revive team with 75% HP upon death;Gaznar Soulripper,Khufu,Modron,Trahern
+99;Mystic Resurgence;Chance to revive team with 50% HP upon death;Ganrod,Treekin Shaman,Myrddin
+100;Mystics;Passive-Increase skill proc of team members by 15%;Myrddin,The Prophet
+101;Mythic Creatures;Increase ATK by 80% when HP falls below 30%;Galzra,Ben-nu Fireborn
+102;Nature Magic;Chance to revive team with 25% HP upon death;Myrddin,Druantia,Sun Mage,Treekin Shaman
+103;Nature Wrath;Chance to instantly kill enemy team;Rhiannon The Fair,Treekin,Caradd The Gale,Earth Elemental
+104;Necro Party;Remove 80% of enemy team's current HP;Odo The Infernal,Necros The Grim,Soulbane,Karn
+105;Necromancers;Chance to revive team with 75% HP upon death;Ossion The Dread,Necros The Grim
+106;Noobs;Passive-Increase skill proc of team members by 5%;Squire,Apprentice,Druid Initiate
+107;On The Hunt;Passive-Raise team's ATK by 25%;Phantom Panther,Ranger
+108;Opposite Ends;Increase ATK by 300% when HP falls below 10%;Death,Hope,Gaznar Soulripper,White Knight
+109;Patriots;Passive-Raise team's ATK by 74%;Bald Eagle,Grillmaster
+110;Pet Familiars;Remove 80% of enemy team's current HP;Moria,Arcane Archer,Balzathor,Shiveheart
+111;Phoenix Fury;Revive team with 50% HP upon death;Ben-nu Frostborn,Ben-nu Fireborn,Ben-nu Hellborn,Ben-nu Skyborn
+112;Polar;Passive-Reduce damage by 30%;Hope,Toymaker,Winter Treekin,Angela
+113;Premeditation;Chance to revive team with 100% HP upon death;Merla The Lidless,The Prophet,Archivist
+114;Psalm Singers;Passive-Increases healing effectiveness by 200%,Increase skill proc by 8%;Wind Whisper,Moria,Lyrist
+115;Pure Evil;Passive-Raise team's ATK by 50%,Increase skill proc by 5%;Death,Gaznar Soulripper,Sir Valamir,Ossion The Dread
+116;Queens Of Darkness;Chance to revive team with 75% HP upon death;Blood Queen,Jezebel The Shriek,Dragon Enchantress
+117;Questing Knight;Passive-Increase skill proc of team members by 10%;Armored Warhorse,Squire,Grail Knight
+118;Raw Firepower;Remove 50% of enemy team's current HP;Archmage,Sun Mage,Arcane Archer
+119;Regeneration;Chance to revive team with 30% HP upon death;Ben-nu Fireborn,Thorn Witch,Earth Elemental
+120;Relentless Evil;Passive-Increase skill proc of team members by 10%;Morbius The Cursed,Balzathor,Gaznar Soulripper,Ossion The Dread
+121;Righteous Fury;Passive-Raise team's ATK by 100% and reduce damage by 30%;Vambrael,Azarel,Father Beneficent,White Knight
+122;Righteous Knight;Passive-Reduce damage by 50%;Sir Gareth,Galahad The Pure,Sir Owain
+123;Rock And Troll;Increase ATK by 200% when HP falls below 50%;Lord Stonebrand,Stone Ancient,Stone Fist
+124;Romantic Knight;Chance to revive team with 50% HP upon death;Knight Of The Rose,Violet Knight
+125;Royal Bodyguards;Passive-Reduce damage by 30%;Gawain's Guard,King's Guard,Arial's Champion
+126;Sacred Squadron;Passive-Raise team's HP and ATK by 150%;Sir Percival,Veteran Paladin,Hugues De Payns,Paladin
+127;Sainted Knights;Chance To Revive team with 80% HP upon death;Golden Vambrael,Hugues De Payns
+128;Savage Elite;Chance to instantly kill enemy team;Arial,Drust Mac Erp,Primal Rider,Stone Fist
+129;Shamans;Passive-Increase healing effectiveness by 100%;The Horned Lord,Elder Shaman
+130;Shimmering Shield;Passive-Reduce damage by 50%;Angelic Scout,Diamond Knight,Arabel the True
+131;Shining Armor;Passive-Reduce damage by 60%;Green Knight,King's Guard,Maiden Exemplar,White Knight
+132;Soldiers;Passive-Raise team's MAX HP by 20%;Knight,Pikeman,Crossbowman,Footman
+133;Soul Eaters;Chance to revive team with 50% HP upon death;Death,Soul Cage
+134;Stag Herder;Passive-Increase healing effectiveness by 50%;Alpha Stag,Wild Hunt
+135;Stag Pack;Passive-Raise team's HP by 150%;Cernunnos,The Horned Lord,Alpha Stag,Wild Hunt
+136;Suited Up;Passive-Reduce damage by 60%;Sir Galahad,Sir Kay,Diamond Knight,Paladin
+137;Summoned Minions;Chance to revive team with 20% HP upon death;Water Elemental,Fire Elemental,Marble Guardian,Mechanical Knight
+138;The Pure Knights;Chance to prevent 100% damage;Golden Galahad,Sir Percival
+139;The Wartorn;Chance to revive team with 80% HP upon death;Hudde,Maiden Of The Order,Veteran Paladin,Godfrey One-Arm
+140;Theurgists;Passive-Increase skill proc of team members by 10%;The Horned Lord,Elder Shaman,Myrddin,Treekin Shaman
+141;Thick Hides;Passive-Reduce damage by 30%;Mhor The Wyrm,Giant Boar
+142;Thirst Of Night;Passive-Raise team's HP by 60%,increase healing effectiveness by 100%;Chastity,Sir Valamir
+143;Thorny Threat;Increase ATK by 50% when HP falls below 60%;Thorn Witch,Blood Briar
+144;Thunder's Fury;Remove 50% of enemy team's current HP;Eira Storm,Caradd The Gale,Ice Mage,Archmage
+145;Tide Lurkers;Passive-Increase healing effectiveness by 20%;Kelpie,Water Nymph
+146;Titans;Passive-Raise ATK by 50%;Mhor The Wyrm,Ysbadden
+147;Toxic Death;Increase ATK by 100% when HP falls below 20%;Pestilence,Ruibh The Wyrm,Cockatrice,Ageless Scorpion
+148;Travelers;Passive-raise team's ATK by 30%,raise team's HP by 40%;Archmage Rhobin,Archivist,Elder Shaman,Astrologist
+149;Tribal Fury;Passive-Raise team's ATK by 50%,increase skill proc by 10%;War Drummer,Hor Of Broceliande,Berserker,Stone Fist
+150;Twin Cleric;Incre,ase ATK by 30% when HP falls below 70%;War Cleric,Father Maleficent
+151;Twin Knights;Chance to revive team with 10% HP upon death;Paladin,Black Knight
+152;Twin Sister;Increase ATK by 200% when HP falls below 10%;Arabel the True,Yzabel The Fallen
+153;Ultimate Fighters;Passive-Raise team's ATK by 100%,raise team's HP by 75%;Drust Mac Erp,King's Guard,War
+154;Umbral Spirits;Chance to revive team with 30% HP upon death;Merla The Lidless,Amythestine,Aleria,Cernunnos
+155;Undead Army;Passive-Raise team's HP by 125%;The Butcher,Bourgard,Gargoyle,Tomb Reaver
+156;Undead Party;Passive-Raise HP and ATK by 50%;Desdemona,Gravebane,Karn,Morbius The Cursed
+157;Undying;Chance to revive team with 60% HP upon death;Azarel,Ben-nu Fireborn
+158;Unholy Strenght;Passive-Raise ATK by 80%;Morbius The Cursed,Gaznar Soulripper
+159;Unstoppable Force;Passive-Raise team's MAX HP by 220%;Galzra,Ironbark Overlord,Earth Mother,Mhor The Wyrm
+160;Wanderers;Increase ATK by 60% when HP falls below 50%;Beastmaster,Ranger
+161;Warrior Poets;Passive-Increase skill proc of team members by 10%;Archivist,Father Beneficent,Necros The Grim
+162;Wild Pack;Increase ATK by 20% when HP falls below 80%;Giant Boar,Dire Bear,Alpha Stag,Dire Wolf
+163;Wise Sages;Passive-Increase skill proc of team members by 12%;Archivist,The Prophet,Druantia,Myrddin
+164;Woodland Delties;Passive-Increase healing effectiveness by 80%;Druantia,Abnoba
+165;Wyrm Duo;remove 30% of enemy team's current HP;Ruibh The Wyrm,Mhor The Wyrm
+166;Absolute Authority;40% chance to silence target team;Dawnstrike Purifier,Twilight Arbiter
+167;Ancient Avatars;Passive- Reduce damage by 20%;Ice Overlord,Ironbark Overlord
+168;Animal Rage;Passive-Increase ATK by 100%;Blitzen,Turkey
+169;Battle Hardened;Passive-Raise Max ATK by 50% & Max HP by 25% & Skillproc by 10%;Corraddin Of The Spear,Hawkeye,Sylvan Huntress
+170;Battleborn;Passive- Raise team's ATK by 75% Skill proc +15%;Blademaster,Veteran Paladin,War Drummer,Weapon Master
+171;Big Guys;Passive- Reflect 45% damage;Ice Overlord,Snow Man, St Christmas
+172;Blood Flow;Passive-Raise Max HP by 125%;Broom,Hudde,Mason
+173;Blood Frenzy;Passive-Raise Max ATK by 100% and Max HP by 50%;Bron the Juggernaut,Corraddin of the Spear
+174;Bloodied Visage;Increase Healing Effect by 300% and Skill proc by8%;Balin the Savage,Blood Queen,Bloodstained Virtuoso
+175;Bloodletters;Increase Skill Proc by 10%;Blood Queen,Chastity,Sir Valamir
+176;Bountiful Brood;Increase Skill proc by 5%;Covetous Whelp,Dragon Caller
+177;Brothers in Arms;Increase Skill proc by 8%;Galahad The Pure,Lancelot the Young
+178;Burning Wrath;Passive- Raise team's ATK by 100%;Ben-nu Fireborn,Ember Druid,Fire Elemental,Gravebane
+179;Canopy Cabal;Passive-Increase Skill proc by 15%;Caelia of the Fells,Dragon Enchantress,Laucine Gemweaver,Lunar Disciple
+180;Christmas Freeze;Freeze all enemy team;Blitzen,Frost Witch,Snow Man,St Christmas
+181;Contract Killers;Passive-Reduce Max ATK by 50% & Skill Proc by 15%;Hawkeye,Knife Juggler
+182;Core Dwellers;Passive-Raise team's MAX HP by 100%;Balzathor,Fire Elemetal,Mammoth Beetle,Terraheart
+183;Corrupted;Chance to instantly kill enemy team;Desdemona,Jezebel The Shriek,Sir Valamir,Yzabel The Fallen
+184;Courtly Valor;Increase skill proc by 10% & increase MAX HP by 100%;Gawain's Guard,Hugues de Payns,Lancelot The Young,Sir Kay
+185;Coven of Whispers;45% Chance to silce target team.Twice per battle;Jezebel the Shriek,Modron,The Morrigan
+186;Dampening Blow;25% Chance to silence target whole team;Daliya,Enlightened Ascetic,Time Wizard
+187;Dark Souls;Chance to revive with 50% HP on death;Scarecrow,Soul Cage
+188;Deafening Hex;20% Chance to silence target whole team. Twice per battle;Laucine Gemweaver,Mara Of The Sand,Myddrin
+189;Death and Decay;Chance to instantly kill enemy team;Crimson Dragonaire,Megion,Valrakk The Scorched
+190;Death Drogher;Chance to instantly kill enemy team;Death,Scarecrow,Soul Cage,Vortigern
+191;Death From Above;When your team HP lower than 30% increase 400% ATK;Black Knight,Defiled Hippogriff
+192;Defenders of Glory;Increase healing Effect by 300% & prevent damage by 30%;Angelic Scout,Goldenshield Champion,Guardian Angel
+193;Deflecting Blow;Reflect attack by 30% Increase Max HP by 100%;Goldenshield champion,Hugues De Payns,Kelley,Sword Summoner
+194;Deft Parry;35% Chance to block damage;Auberon Of The Fae,Toymaker
+195;Delusions Of Madness;Decrease enemy whole team trigger proc by 5%;Dream Eater,Hatebound Crusader,Nightmare
+196;Divine Retribution;15% Chance to instantly kill enemy team;Azarel,Angel Of Law,Hope,Flametruth Avenger
+197;Double Date;Passive- Increase proc rate 15% increase healing effectiviness 80% increase ATK 75% e reduce damage 15%;Culhwch,Olwen,Iseult,Tristan
+198;Dragonic Bond;Passive- Increase Skill proc by 10%;Valrakk the Scorched,Icemaw,Dragon Enchantress
+199;Dragonic Legion;Chance to instantly kill enemy team;Crimson Dragonaire,Rock Dragonaire,Dragon Caller,Celadon Dragonaire
+200;Earthen Might;Passive-Reduce damage by 50%;Terraheart,Earth Mother,Marble Guardian,Stone Ancient
+201;Essence Prision;30% chance to freeze target team;Soul Cage,Hatebound Crusader
+202;Eternal Evil;Passive - Raise Max HP by 200% & Max ATK by 100%;Vambrael The Fallen,Valrakk the Scorched,Icemaw
+203;Faithful Avail;Passive- Increase team's HP by 35%;Angelic Scout,War Cleric
+204;Feral Binding;25% chance to stun target whole team;Dragon Enchantress,Beast Tamer,Rock Dragonaire
+205;Fire Flurry;Remove 50% of enemy team's current HP;Ember Druid,Flame Witch
+206;Furious Rebuff;Reflect attack by 30%;Bron The Juggernaut,Moonlight Berserker,Arial's Champion
+207;Fury Of Fire;Raise ATK 250% when HP lower than 25%;Infernus,Flame Witch,Soulbane
+208;Gaea's Chosen;Passive-Increase Max HP by 175%;Caelia Of The Fells,Druantia,Earth Mother
+209;Gilded Youth;Passive-Increase Max HP by 100% & Mx ATK by 100% & reduce damage by 40%;LAncelot The Young,Morgana The Young,Arthur The Young
+210;Glen Of Renewal;Increase Healing Effect by 150% skill proc by 5%;Keeper Of The Glade,Creeping Anglerbush,Treekin
+211;Greed is Good;30% chance to stun target team;Covetous Whelp,Black Market Broker,Shadow Alley Swindler
+212;Hallowed Bastions;Passive-Increase MAx ATK by 70%;Flametruth Avenger,Arabel The True
+213;Haunted Horseman;Chance to revive with 60% HP on death;Night Rider,Headless Horseman
+214;Heavenly Bodies;Increase trigger proc 8% Max HP +25%;Sun Mage,Lunar Disciple
+215;Hollow Headed;Passive- Reduce damage by 30% and increase skill proc by 10%;Headless Horseman,Pumpkin Skeleton
+216;Holy Men;PAssive -Reduce damage by 20%;Paladin,War Cleric
+217;Holy Words;Passive- Increase the skill proc by 10%;Moria,Lyrist,The Giver
+218;Ice Age;15% chance to freeze enemy party.Limit:Three times per batlle;Ice Overlord,Icemaw,Shiveheart,Magistrate Jax
+219;Ice and Fire;Passive- ATK boost 180%;Infernus,Ice Overlord
+220;Ice and Water Witchers;Passive - Increase Healing effectiveness by 100%;Frost Witch,Sheelin
+221;Ice Dragon Summoner;Chance to revive team with 50% HP upon death;Icemaw,Frost Witch
+222;Idols;Passive-Reduce damage by 50% increase skill proc by 10%;Sir Parcival,Arthur the Young,Galahad The Pure
+223;Immortal Oath;50% Chance to revive with 80% HP;Lancelot The Young,Dawnstrike Purifier,Wayfaring Oracle
+224;Impenetrable Thicket;Passive-Reduce damage by 25% & increase skill proc by 10%;Blightvine,Daliya
+225;Infernal Covenant;Passive refleted 50% damage & increase MAx ATK by 50%;Juicifer,Vambrael the Fallen,Valrak The Scorched,Icemaw
+226;Inner Circle;Remove 60% of enemy team's current HP;Myrddin,Mara of the Sand;Sun Mage
+227;Judicious Execution;20%chance to instantly kill enemy team;Lancelot The Young,Sir Galahad,Wolfbound Redeemer,Twilight Arbiter
+228;Labors of Love;Passive-Increase proc rate 10% & increase ATK 100%;Culhwch,Olwen,Violet Knight,Knight of Rose
+229;Last Touch;Chance to instantly kill the enemy team;Blightvine,Pestilence,Necro Rider
+230;Last Word;15% to silence enemy team Limit: twice per battle;Magistrate Jax,Baron
+231;Lay Of The LAnd;Increase MAx HP by 60%;Treetop Ambusher,Archivist
+232;Loan Sharks;50% chance to remove enemy team 30% current HP;Black Market Broker,Shadow Alley Swindler
+233;Love Potion;Passive- Reduce Damage 40% & increase Healing effectiveness 200%;Iseult,Tristan
+234;Moonhowl Guild;Increase skill proc by 10% increase MAx HP by 100%;Wolfbound redeemer,Laucine Gemweaver,Arial,Beast Tamer
+235;MoonLight Rising;Passive-Raise team's HP and healing effectiveness by 40%;Chang'e,Wu Gang
+236;Moonlight Veil;Passive-reduce damage by 50%;Moria,Gumiho,Lyrist
+237;Mystic Resurgence;Chance to revive team with 50% HP upon death;Myrddin,Treekin Shaman,Ganrod
+238;Mystics;Passive-Increse skill proc of team memebers by 15%;Myrddin,The Prophet
+239;Nature Force;Raise ATK 200% when HP lower than 30%;Alpha Stag,Blitzen
+240;Nature's Cruch;50% chance to stun enemy with the highest ATK team Limit once per battle;Bron The Juggernaut,The Horned Lord,Blitzen
+241;Order of savagery;Passive-Increase MAx ATK by 250% & increase skill proc by 5%;Sir Galahad,Drust Mac Erp,Balin The Savage,Twilight Arbiter
+242;Overwhelming Evil;Decrease enemy whole trigger proc by 15%;Wraith-Kin Matron,Ossion The Dread,The Morrigan,Death
+243;Paragon of War;Passive-Raise team's ATK by 175%;Veteran Paladin,War,Weapon Master
+244;Paralyzing Charge;30% Chance to freeze target whole team;Vortigern,Loholt Chainwail,Hatebound Crusader,Desdemona
+245;Petrified Shield;Passive- Reduce damage by 40%;Granite Guardian,Rock Dragonaire
+246;Pharaoh's Vengeance;Passive-Raise Team's ATK by 40% and increase skill proc by 15%;Khufu,Khafra
+247;Pledge Of Fealty;50% chance to revive at 50% HP;Eager Squire,Blademaster
+248;Prey Seeker;Passive-increase team's ATK by 40%;Wild Huntress,Ranger
+249;Protectors of the wilds;Increase MAx HP by 100%;Moonlight berserker,Arial's Champion,Piper of the woods
+250;Resolute Commanders;Passive-Reflect 35% damage.;Gwar,Drust Mac Erp
+251;Reunion;Change to revive at 100% Hp.;Vortigern,Catigern
+252;Rocky Resistance;Passive-Increase Max Hp by 125% and Skill Proc by 10%;Granite Guardian,Mara Of The Sand,Kel Earthbringer
+253;Rovers;Passive-Increase team's Hp by 50%;Bald Eagle,Beastmaster,Ganrod
+254;Saints of Griefing;Reflect attack by 20%;Sorrowful Swordsman,Azarel
+255;Sallow Scythe;Change to revive with 50% Hp on death;Death,Scarecrow
+256;Salving Melody;Increase Healing Effect by 100%, prevent damage 20%;Piper of the Woods,Vitis Caroler
+257;Scalehide Flock;Passive-Increase Max Hp by 150%.;Covetous Whelp,Fairy Dragon,Nathra Verdaine
+258;Snow and Ice;Freeze enemy team;Shiverheart,Snow Man
+259;Snow Partners;Freeze enemy team;Snow man,Winter Soldier
+260;Soldiers' Spirit;Passive-Reduce Damage by 20%;Dragon Knight,Watchman,Winter Soldier
+261;Soul Quenchers;Chance to revive team with 50% Hp upon death.;Soul Cage,Dream Eater
+262;Spirit Assault;Remove 44% of the enemy team's current Hp;Aleria,Amythestine,Cernunnos,Ganrod
+263;Spirits of Slaughter;Passive-Raise Max Atk by 200% and Skill Proc by 10%;War,Gwar,Godfrey One-Arm
+264;Spoils of the Hunt;Increase Healing Effect by 150%;Beast Tamer,Wild Hunt
+265;Sprouting;70% chance to revive at 70% Hp;Keeper of the Glade,Creeping Anglerbush
+266;Steadfast Companions;Passive-Increase Max Atk by 125%;Sorrowful Swordsman,Eager Squire,Treetop Ambusher
+267;Strenght of Will;Remove 50% of the enemy team's current Hp;Kel Earthbringer,Sword Summoner,Telekenetic
+268;Sylvan Rejuvenation;50% chance to revive at 80% Hp;Auberon of the Fae,Keeper of the Glade,Lunar Disciple
+269;The Juice is Loose;20% chance to instantly kill enemy team;Juicifer,Vambrael Fallen,Morgana the Young,Yzabel the Fallen
+270;The Risen;Chance to revive team with 70% Hp upon death;Karn,Gravebane,Night Rider
+271;The Upholders;Passive-Reduce damage by 40%;Megion,Galland
+272;Thrill of the Chase;Passive-Increase Max Atk by 200% and Skill Proc by 15%;Wolfbound Redeemer,Caelia of the Fells,Culhwch,Olwen
+273;Toxic Death;Increase Atk by 100% when Hp falls below 20%;Pestilence,Cockatrice,Ageless Scorpion,Ruibh the Wyrm
+274;Transcendent Wrath;50% chance to remove enemy 30% current Hp;Enlightened Ascetic,Aleria
+275;Trick and Treat;Passive-Reduce damage by 30% and raise Hp by 50%;Modron,Trahern,Pumpkin Skeleton
+276;Vexing Triad;Passive-Raise Max Hp by 100%,Reduce damage by 25%;Morgana the Young,Brigid,Raven
+277;Vinebound;15% chance to stun enemy team.Limit twice per battle;Treehound,Blightvine
+278;Watchful Wardens;Passive-Reduce Damage by 40%;Watchman,Broom
+279;Young Blood;Passive-Increase healing effectiveness by 150% and skill proc by 10%;Morgana the Young,Arthur the Young
+280;Treacherous Impact;Harms or cripples opposing team or both;Mordred
+281;Sufferer;Passiv - Increases ATK by 150% and triggering probability by 17%;Mordred,Shinobi,Ogrim
+282;Bloodline;Increases healing effectiveness by 75% and increased release probability by 10% and 35 % throws back injury;Mordred,Arthur Pendragon, Morgana, Arthur the Young
+283;Unholy Conclave;Increases max . TP by 250% and prevents 50 % damage and throws back 50 % damage;Mordred,Juicifer,Vambrael Fallen,Valrakk the Scorched
+284;Unholy Conclave;Increases max . TP by 250% and prevents 50 % damage and throws back 50 % damage;Mordred,Juicifer,Vambrael Fallen,Valrakk the Scorched

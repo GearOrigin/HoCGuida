@@ -1,0 +1,85 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@drawable/homepage2"
+    android:columnCount="1"
+    android:rowCount="4"
+    >
+
+	<TextView
+	    android:id="@+id/testopzioni"
+	    android:layout_width="271dp"
+	    android:layout_height="58dp"
+	    android:layout_column="0"
+	    android:layout_gravity="center"
+	    android:layout_row="0"
+	    android:background="@drawable/spada"
+	    android:gravity="center"
+	    android:alpha=".75"
+	    android:textAppearance="?android:attr/textAppearanceLarge"
+	    android:textColor="#CCA300"
+	    android:textScaleX="1.2" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:layout_column="0"
+        android:layout_gravity="right"
+        android:alpha=".8"
+        android:layout_marginTop="20dp"
+        android:layout_row="1"
+        android:background="@drawable/pergamena2"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/italia"
+            android:layout_width="89dp"
+            android:layout_height="72dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/ic_italia" />
+
+        <ImageView
+            android:id="@+id/inghilterra"
+            android:layout_width="89dp"
+            android:layout_height="72dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_inglese" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/contact"
+        android:layout_width="260dp"
+        android:layout_height="91dp"
+        android:layout_column="0"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="5dp"
+        android:layout_row="3"
+        android:alpha=".7"
+        android:background="@drawable/spadaaaaa"
+        android:gravity="center"
+        android:padding="1dp"
+        android:textStyle="bold"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#CCA300" />
+
+    <TextView
+        android:id="@+id/recensione"
+        android:layout_width="260dp"
+        android:layout_height="91dp"
+        android:layout_column="0"
+        android:layout_gravity="center_horizontal|top"
+        android:textStyle="bold"
+        android:layout_row="3"
+        android:alpha=".7"
+        android:background="@drawable/spadaaaaa"
+        android:gravity="center"
+        android:padding="1dp"
+        android:layout_marginTop="5dp"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#CCA300" />
+
+</GridLayout>

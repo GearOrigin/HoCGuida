@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="180dp"
+    android:background="@drawable/backandground2"
+    android:alpha="0.7">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="180dp"
+            android:layout_marginLeft="3dp"
+            android:minWidth="30dp"
+            android:gravity="center"
+            android:id="@+id/textPiano"
+            android:textSize="18sp"
+            />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:maxWidth="230dp"
+            android:layout_marginLeft="3dp"
+            android:layout_toRightOf="@+id/textPiano"
+            android:layout_height="180dp"
+            android:gravity="center"
+            android:id="@+id/altreInfo"
+            android:textSize="18sp" />
+
+</RelativeLayout>

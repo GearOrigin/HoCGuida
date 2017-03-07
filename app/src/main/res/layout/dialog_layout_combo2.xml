@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#55000000"
+    android:orientation="vertical"
+    >
+ 
+        <ImageView
+            android:id="@+id/dd1"
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:adjustViewBounds="false"
+            android:maxWidth="15dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            android:background="@layout/rounded_image"
+            
+            />
+
+       <ImageView
+        android:id="@+id/dd2"
+        android:layout_width="90dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/dd1"
+        android:adjustViewBounds="false"
+        android:maxWidth="15dp"
+        android:scaleType="fitXY"
+        android:layout_weight="1"
+        android:background="@layout/rounded_image" />
+
+   
+
+    <ImageView
+        android:id="@+id/dd3"
+        android:layout_width="90dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/dd2"
+        android:adjustViewBounds="false"
+        android:maxWidth="15dp"
+        android:scaleType="fitXY"
+        android:layout_weight="1"
+        />
+
+    <ImageView
+        android:id="@+id/dd4"
+        android:layout_width="90dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/dd3"
+        android:layout_weight="1"
+        android:adjustViewBounds="false"
+        
+        android:maxWidth="15dp"
+        
+        android:scaleType="fitXY" />
+
+     <TextView
+         android:id="@+id/ddtextcombo"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_centerVertical="true"
+         android:layout_toRightOf="@+id/dd3"
+         android:gravity="center" />
+ 
+</RelativeLayout>

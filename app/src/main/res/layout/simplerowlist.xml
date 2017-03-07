@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent" >
+
+ <TableRow>
+    
+    <ImageView
+        android:id="@+id/immagineCarta"
+       android:layout_width="30dp"
+        android:layout_height="55dp"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:adjustViewBounds="false"
+        android:background="@layout/rounded"
+        android:maxWidth="30dp"
+        android:scaleType="fitXY"
+         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:minWidth="200dp"
+        android:gravity="center"
+        android:id="@+id/textViewCarta"
+         />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:maxWidth="50dp"
+        android:maxHeight="50dp"
+        android:minHeight="45dp"
+        android:id="@+id/tipoCartaView"
+        />
+    </TableRow>
+
+ <TableRow
+     android:id="@+id/tableRow1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content" >
+ </TableRow>
+
+</TableLayout>

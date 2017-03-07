@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"  android:stretchColumns="*" android:background="@drawable/backgrnhome2"
+    >
+
+    <TableRow
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:gravity="center_horizontal">
+		 
+        <TextView
+            android:id="@+id/titolo"
+            style="@style/testoHome"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="20dip"
+            android:textColor="#CCA300"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/spada"
+            />
+    
+    </TableRow>
+    
+    <TableRow
+    android:id="@+id/tableRow1"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:background="@drawable/perga"
+    android:alpha=".75"
+
+    >
+
+        <TextView
+            android:id="@+id/TextView04"
+            style="@style/testoHome"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="20dip" 
+            android:scrollbars = "vertical"
+            />
+         
+    </TableRow>
+    
+
+</TableLayout>

@@ -1,0 +1,72 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+   >
+    <item
+        android:id="@+id/FiltroStelleC"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Per rarità crescente"
+       />
+    <item
+        android:id="@+id/FiltroManaC"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Per Mana crescente"
+        />
+    <item
+        android:id="@+id/FiltroHpC"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Per Hp crescente"
+        />
+    <item
+        android:id="@+id/FiltroAtkC"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Per Atk crescente"
+        />
+     <item
+        android:id="@+id/FiltroStelleD"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Per rarità decrescente"
+       />
+    <item
+        android:id="@+id/FiltroManaD"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Per Mana decrescente"
+        />
+    <item
+        android:id="@+id/FiltroHpD"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Per Hp decrescente"
+        />
+    <item
+        android:id="@+id/FiltroAtkD"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Per Atk decrescente"
+        />
+    <item
+        android:id="@+id/CercoCarta"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="collapseActionView|ifRoom"
+        android:title="Cerca"
+        android:actionViewClass="android.widget.SearchView"
+        />
+    <item
+        android:id="@+id/FiltroAlfabeticoC"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="A-Z"
+        />
+    <item
+        android:id="@+id/FiltroAlfabeticoD"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Z-A"
+        />
+
+</menu>
